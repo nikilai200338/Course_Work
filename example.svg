@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="600" height="600" viewBox="-150.0 -150.0 300 300">
+<defs>
+</defs>
+<circle cx="83" cy="-80" r="23" fill="pink" stroke-width="0" stroke="red" />
+<circle cx="90" cy="-43" r="12" fill="pink" stroke-width="2" stroke="red" />
+<circle cx="76" cy="-69" r="8" fill="pink" stroke-width="1" stroke="red" />
+<circle cx="66" cy="-85" r="24" fill="pink" stroke-width="4" stroke="red" />
+<circle cx="40" cy="-22" r="3" fill="pink" stroke-width="3" stroke="red" />
+<circle cx="32" cy="-47" r="14" fill="pink" stroke-width="0" stroke="red" />
+<circle cx="5" cy="-41" r="2" fill="pink" stroke-width="3" stroke="red" />
+<circle cx="78" cy="-28" r="18" fill="pink" stroke-width="0" stroke="red" />
+<circle cx="45" cy="-93" r="22" fill="pink" stroke-width="1" stroke="red" />
+<circle cx="87" cy="-59" r="25" fill="pink" stroke-width="2" stroke="red" />
+<rect x="22" y="72" width="5" height="9" fill="#1248ff" />
+<rect x="54" y="-104" width="16" height="29" fill="#1248ff" />
+<rect x="28" y="-11" width="13" height="17" fill="#1248ff" />
+<rect x="68" y="-104" width="10" height="29" fill="#1248ff" />
+<rect x="23" y="-46" width="28" height="41" fill="#1248ff" />
+<rect x="-79" y="-54" width="14" height="30" fill="#1248ff" />
+<rect x="67" y="34" width="10" height="2" fill="#1248ff" />
+<rect x="-16" y="-86" width="12" height="9" fill="#1248ff" />
+<rect x="4" y="87" width="10" height="13" fill="#1248ff" />
+<rect x="5" y="-81" width="1" height="48" fill="#1248ff" />
+<path d="M14.883216824898845,11.329922788479214 A12,12,0,1,0,12.056514962673262,20.87270834788609" stroke="green" stroke-width="3" fill="none" />
+<path d="M36.14790882505662,59.17773149177335 A27,27,0,0,0,50.32426780478095,85.83958500719103" stroke="green" stroke-width="3" fill="none" />
+<path d="M-52.152990503872275,-104.62518408917975 A11,11,0,1,0,-54.232678788814624,-83.02679544714194" stroke="green" stroke-width="3" fill="none" />
+<path d="M-20.760086920795178,45.379029050604544 A28,28,0,0,0,-1.440360796934431,90.89345154656888" stroke="green" stroke-width="3" fill="none" />
+<path d="M-88.61442442915894,-44.34457133944553 A15,15,0,0,0,-102.43980586574756,-41.65718942185457" stroke="green" stroke-width="3" fill="none" />
+<path d="M-28.431074487337025,-52.78730854217091 A14,14,0,0,0,-37.180897140662104,-30.574589675871326" stroke="green" stroke-width="3" fill="none" />
+<path d="M46.88073842626115,26.05009050551764 A16,16,0,0,0,19.885466072656047,16.490563194581576" stroke="green" stroke-width="3" fill="none" />
+<path d="M-41.935309867559674,-53.4816476267102 A17,17,0,0,0,-30.81434243653638,-36.02522544663956" stroke="green" stroke-width="3" fill="none" />
+<path d="M-5.650635094610969,61.5 A25,25,0,1,0,39.77641290737884,81.72542485937369" stroke="green" stroke-width="3" fill="none" />
+<path d="M13.00097346438845,19.275377796334308 A14,14,0,0,0,9.210363593003589,24.305686996938796" stroke="green" stroke-width="3" fill="none" />
+<path d="M-80,45 L70,49 L95,-49 L-90,-40" fill="#eeee00" stroke="black" />
+<path d="M80,72 L92,-45 L-17,61" fill="#8a2be2" stroke="black" />
+</svg>
